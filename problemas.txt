@@ -1,0 +1,10 @@
+1.	Verificar cedula (4 digitos)
+2.	Mostrar bien en 7 segmentos
+3.	Tapabocas tela antifluido
+3.1 Tapabocas 180 grados
+4.  Temperatura (rango perm)
+4.1 Mostrar FA o Fn.
+5.  Validar area (2 digitos)
+
+Si temperatura > permtido -> FIN
+
